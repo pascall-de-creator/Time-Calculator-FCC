@@ -13,8 +13,6 @@ If the function is given the optional starting day of the week parameter, then t
 
 Below are some examples of different cases the function should handle. Pay close attention to the spacing and punctuation of the results.
 ```py
-a
-
 add_time("11:43 AM", "00:20")
 # Returns: 12:03 PM
 
@@ -42,7 +40,7 @@ The unit tests for this project are in `test_module.py`. We imported the tests f
 
 Copy your project's URL and submit it to freeCodeCamp.
 
-
+```py
 ## Project Status :
 Accepteddd_time("3:00 PM", "3:10")
 # Returns: 6:10 PM
@@ -76,7 +74,3 @@ The unit tests for this project are in `test_module.py`. We imported the tests f
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
-
-
-## Project Status :
-Accepted
