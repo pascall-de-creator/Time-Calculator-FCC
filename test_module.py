@@ -1,8 +1,6 @@
 import unittest
 from time_calculator import add_time
 
-# unit tests by https://github.com/ShreyasSubhedar/fcc-time-calculator/blob/master/test_module.py
-
 class UnitTests(unittest.TestCase):
     def test_same_period(self):
         actual = add_time("3:30 PM", "2:12")
